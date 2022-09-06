@@ -2,14 +2,14 @@
 layout: home
 features:
   - icon: ⚡️
-    title: Vite, The DX that can't be beat
-    details: Lorem ipsum...
+    title: 学习氛围好
+    details: 你可以在社团内不断学习，不断进步，不断成长。
   - icon: 🖖
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
+    title: 适合各种群体
+    details: 业余爱好者、学生，都可以在这里找到自己的位置。
   - icon: 🛠️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
+    title: 学习各种知识
+    details: 在我们社团你可以学习到各种关于网络安全的知识。
 hero:
   name: 网络空间安全协会
   text: Hi there
@@ -20,7 +20,7 @@ hero:
   actions:
     - theme: brand
       text: 了解我们
-      link: /guide/what-is-vitepress
+      link: /home/index
     - theme: alt
       text: 社团荣誉
       link: https://github.com/vuejs/vitepress
