@@ -12,14 +12,20 @@ export default {
       {
         text: '社团成就',
         items: [
-          { text: '校级奖项', link: '/item-c' },
-          { text: '院级奖项', link: '/item-d' },
+          { text: '校级奖项', link: '/award/school' },
+          { text: '院级奖项', link: '/award/collage' },
+        ]
+      },
+      {
+        text: '社团活动',
+        items: [
+          { text: '学校比赛', link: '/active/school' },
         ]
       },
       {
         text: '加入我们',
         items: [
-          { text: 'QQ', link: '/item-a' },
+          { text: 'QQ', link: '/join/qq' },
         ]
       },
     ]
