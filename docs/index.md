@@ -20,7 +20,7 @@ hero:
   actions:
     - theme: brand
       text: 了解我们
-      link: /home/index
+      link: /home/introduction
     - theme: alt
       text: 社团荣誉
       link: https://github.com/vuejs/vitepress
