@@ -13,3 +13,25 @@
 - 网络安全：物联网安全；网络渗透；数据加密；软件加固；代码混淆等；
 - 新型网络：新型物联网；虚拟网络；云计算网络；
 - 大数据：人工智能；机器学习等；
+
+# 社团实况
+
+1. 认真训练
+
+   ![lib1](../assets/lib1.jpg)
+
+2. 爱常熟，爱理工！
+
+   ![lib2](../assets/lib2.jpg)
+
+3. 轻松一刻
+
+   ![lib3](../assets/lib3.jpg)
+
+4. We Are Team!
+
+   ![lib4](../assets/lib4.jpg)
+
+5. We Are Family!
+
+   ![lib5](../assets/lib5.jpg)
