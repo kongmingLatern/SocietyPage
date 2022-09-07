@@ -15,7 +15,7 @@ hero:
   text: Hi there
   tagline: 等你加入~~
   image:
-    src: /logo.png
+    src: /assets/logo.png
     alt: 网络空间安全协会
   actions:
     - theme: brand
