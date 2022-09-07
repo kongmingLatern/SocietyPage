@@ -1,14 +1,18 @@
 {
   "name": "SocieryPage",
   "version": "1.0.0",
-  "description": "",
+  "description": "Home Page For Sociery",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   },
-  "keywords": [],
+  "keywords": [
+    "vitepress",
+    "home page",
+    "blog"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
