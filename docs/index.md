@@ -15,15 +15,12 @@ hero:
   text: Hi there
   tagline: 等你加入~~
   image:
-    src: ./assets/logo.png
+    src: https://7265-resource-manger-6ghfx9rif815a18a-1306001379.tcb.qcloud.la/img/resource/logo.png?sign=ce5d6721046130dc7d43b19ff5059c78&t=1662562752
     alt: 网络空间安全协会
   actions:
     - theme: brand
       text: 了解我们
       link: /home/introduction
-    - theme: alt
-      text: 社团荣誉
-      link: https://github.com/vuejs/vitepress
 ---
 
 <style>
