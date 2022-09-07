@@ -13,14 +13,14 @@ export default {
       {
         text: '社团成就',
         items: [
-          { text: '校级奖项', link: '/award/school' },
-          { text: '院级奖项', link: '/award/collage' },
+          { text: '全国奖项', link: '/award/global' },
+          { text: '其他奖项', link: '/award/other' },
         ]
       },
       {
         text: '加入我们',
         items: [
-          { text: 'QQ', link: '/join/qq' },
+          { text: '联系方式', link: '/join/contact' },
         ]
       },
     ]
