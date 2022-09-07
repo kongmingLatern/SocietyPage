@@ -1,13 +1,14 @@
 export default {
   title: '网络空间安全社团',
   description: 'For The Feture',
+  siteTitle: false,
   themeConfig: {
     sidebar: [
       {
         text: '社团',
         items: [
           { text: '社团介绍', link: '/home/introduction' },
-          { text: '社团活动', link: '/active/school' },
+          { text: '社团活动', link: '/home/active' },
         ]
       },
       {
