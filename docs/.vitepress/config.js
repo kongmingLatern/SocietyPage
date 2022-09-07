@@ -12,10 +12,10 @@ export default {
         ]
       },
       {
-        text: '社团成就',
+        text: '实验室',
         items: [
-          { text: '全国奖项', link: '/award/global' },
-          { text: '其他奖项', link: '/award/other' },
+          { text: '实验室简介', link: '/library/introduce' },
+          { text: '实验室成就', link: '/library/award' },
         ]
       },
       {
